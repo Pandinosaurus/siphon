@@ -131,36 +131,36 @@ Pull out a specific column of data.
     28      676.16
     29      669.49
             ...   
-    201     -99.99
-    202     -99.99
-    203     -99.99
-    204     -99.99
-    205     -99.99
-    206     -99.99
-    207     -99.99
-    208     -99.99
-    209     -99.99
-    210     -99.99
-    211     -99.99
-    212     -99.99
-    213     -99.99
-    214     -99.99
-    215     -99.99
-    216     -99.99
-    217     -99.99
-    218     -99.99
-    219     -99.99
-    220     -99.99
-    221     -99.99
-    222     -99.99
-    223     -99.99
-    224     -99.99
-    225     -99.99
-    226     -99.99
-    227     -99.99
-    228     -99.99
-    229     -99.99
-    230     -99.99
+    201        NaN
+    202        NaN
+    203        NaN
+    204        NaN
+    205        NaN
+    206        NaN
+    207        NaN
+    208        NaN
+    209        NaN
+    210        NaN
+    211        NaN
+    212        NaN
+    213        NaN
+    214        NaN
+    215        NaN
+    216        NaN
+    217        NaN
+    218        NaN
+    219        NaN
+    220        NaN
+    221        NaN
+    222        NaN
+    223        NaN
+    224        NaN
+    225        NaN
+    226        NaN
+    227        NaN
+    228        NaN
+    229        NaN
+    230        NaN
     Name: pressure, Length: 231, dtype: float64
     0    71.2889
     Name: latitude, dtype: float64
@@ -316,7 +316,7 @@ Inspect data columns in the dataframe.
           dtype='object')
 
 
-**Total running time of the script:** ( 1 minutes  1.046 seconds)
+**Total running time of the script:** ( 0 minutes  43.716 seconds)
 
 
 
